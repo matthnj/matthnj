@@ -24,8 +24,7 @@ Visualization Tools: Tableau, Power BI 📊
 Big Data Tools: Elastic Search, Kibana 🌐
 
 ## Contact Information 📞✉️
-Phone: +92-321-230-9695
-Email: najmaajameel@gmail.com
+Phone: +92-321-230-9695      Email: najmaajameel@gmail.com
 
 ## Work Experience 💼
 Assistant Professor - Textile Institute of Pakistan
