@@ -1,6 +1,6 @@
 # Najma Jameel - Data Scientist and Machine Learning Engineer 👩‍💻
 ## Introduction 🚀
-Hello! I am Najma Hafeez, a passionate and results-driven data scientist with a strong background in statistics, mathematics, and Python. With 2 years of experience in the field of teaching and analysis, I have honed my skills in transforming complex data sets into meaningful insights and actionable strategies.
+Hello! I am Najma Jameel, a passionate and results-driven data scientist with a strong background in statistics, mathematics, and Python. With 2 years of experience in the field of teaching and analysis, I have honed my skills in transforming complex data sets into meaningful insights and actionable strategies.
 
 ## Professional Background 📊
 I have a deep understanding of various data analysis techniques, machine learning algorithms, and statistical models. My expertise lies in extracting valuable insights from raw data and utilizing programming languages such as Python and Elastic Search with Kibana to analyze and visualize data.
